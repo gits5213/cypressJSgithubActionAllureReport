@@ -1,0 +1,30 @@
+{
+  "name": "githubaction",
+  "version": "1.0.0",
+  "description": "endtoend",
+  "main": "index.js",
+  "scripts": {
+    "pre-test": "allure generate allure-results --clean -o allure-report && allure open allure-report",
+    "cy:open": "cypress open --e2e --env allure=true --browser chrome",
+    "test": "cypress_baseUrl=https://the-internet.herokuapp.com  cypress run --env allure=true",
+    "report": "allure generate allure-results --clean -o allure-report && allure open allure-report"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gits5213/githubAction.git"
+  },
+  "keywords": [
+    "cypressIO"
+  ],
+  "author": "mdzaman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gits5213/githubAction/issues"
+  },
+  "homepage": "https://github.com/gits5213/githubAction#readme",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.37.0",
+    "allure-commandline": "^2.21.0",
+    "cypress": "^12.9.0"
+  }
+}
