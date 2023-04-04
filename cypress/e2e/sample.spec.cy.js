@@ -7,6 +7,7 @@ describe('github action suite', () => {
     it('github action sample test', () => {
         cy.contains('Welcome to the-internet')
         console.log("log added")
+        
     });
     
 });
