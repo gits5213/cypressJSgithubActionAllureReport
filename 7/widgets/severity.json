@@ -1,0 +1,1 @@
+[{"uid":"11f8afe097dbbe9a","name":"validate, second test","time":{"start":1680705621962,"stop":1680705622025,"duration":63},"status":"passed","severity":"normal"},{"uid":"fa0be02c9fe108d6","name":"validate, hearder contains \"Welcome to the-internet\" text","time":{"start":1680705621917,"stop":1680705621945,"duration":28},"status":"passed","severity":"normal"}]
