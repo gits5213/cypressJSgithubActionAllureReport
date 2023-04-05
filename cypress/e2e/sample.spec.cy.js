@@ -4,10 +4,13 @@ describe('github action suite', () => {
         cy.visit('/')
     });
 
-    it('github action sample test', () => {
+    it('validate, hearder contains "Welcome to the-internet" text', () => {
         cy.contains('Welcome to the-internet')
-        console.log("log added")
-        
+        console.log("header text is present")
+    });
+
+    it('validate, second test', () => {
+        console.log("fake test")
     });
     
 });
