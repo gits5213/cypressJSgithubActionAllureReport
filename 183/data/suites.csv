@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Oct 10 02:22:42 GMT 2023","Tue Oct 10 02:22:42 GMT 2023","366","","Add Remove Elements","","","","validate, delete button is visible & exist",""
+"passed","Tue Oct 10 02:22:42 GMT 2023","Tue Oct 10 02:22:42 GMT 2023","413","","Add Remove Elements","","","","validate, delete button is not visible & not exist",""
+"passed","Tue Oct 10 02:22:41 GMT 2023","Tue Oct 10 02:22:41 GMT 2023","465","","Add Remove Elements","","","","validate, add element button is visible",""
+"passed","Tue Oct 10 02:22:39 GMT 2023","Tue Oct 10 02:22:39 GMT 2023","307","","A/B Testing","","","","validate, hearder text and ab testing header text",""
+"passed","Tue Oct 10 02:22:45 GMT 2023","Tue Oct 10 02:22:46 GMT 2023","916","","Form Authentication","","","","validate, login successful text",""
