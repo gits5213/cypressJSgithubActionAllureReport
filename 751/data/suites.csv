@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","854","validate, login successful text","","Wed Apr 30 03:08:35 GMT 2025","passed","Wed Apr 30 03:08:36 GMT 2025","","Form Authentication","",""
+"","283","validate, delete button is visible & exist","","Wed Apr 30 03:08:33 GMT 2025","passed","Wed Apr 30 03:08:33 GMT 2025","","Add Remove Elements","",""
+"","242","validate, hearder text and ab testing header text","","Wed Apr 30 03:08:31 GMT 2025","passed","Wed Apr 30 03:08:31 GMT 2025","","A/B Testing","",""
+"","370","validate, delete button is not visible & not exist","","Wed Apr 30 03:08:33 GMT 2025","passed","Wed Apr 30 03:08:33 GMT 2025","","Add Remove Elements","",""
+"","373","validate, add element button is visible","","Wed Apr 30 03:08:32 GMT 2025","passed","Wed Apr 30 03:08:33 GMT 2025","","Add Remove Elements","",""
